@@ -1,6 +1,4 @@
-# PlasmaPy community meeting agenda and minutes
-
-## Tuesday 2019 September 24 at 18:00 UT
+# PlasmaPy community meeting agenda and minutes - Tuesday 202X September XX at 18:00 UT
 
 ### Video Conference Information
 * [Jitsi video conference link](https://meet.jit.si/plasmapy) with [call-in information](https://meet.jit.si/static/dialInInfo.html?room=plasmapy) 
@@ -11,6 +9,19 @@
 * [PlasmaPy Google Calendar](https://calendar.google.com/calendar?cid=bzVsb3ZkcW0zaWxsam00ZTlrMDd2cmw5bWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## Agenda (please feel free to edit or add items)
+
+1. Introductions
+2. ...
+3. ...
+4. ...
+5. Issues
+    1. ...
+    2. ...
+6. Pull requests in progress 
+    
+
 ## Minutes
+
+* Stuff happened.
 
 
