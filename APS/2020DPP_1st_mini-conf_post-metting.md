@@ -1,3 +1,7 @@
+---
+tags: APS, minutes
+---
+
 # 1st Post-APS-DPP Meeting | November 17, 2020
 
 [![hackmd-github-sync-badge](https://hackmd.io/fPhwnAapS_2-dDh-tipK8A/badge)](https://hackmd.io/fPhwnAapS_2-dDh-tipK8A)
