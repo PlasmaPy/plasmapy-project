@@ -1,5 +1,8 @@
 # 1st Post-APS-DPP Meeting | November 17, 2020
 
+[![hackmd-github-sync-badge](https://hackmd.io/fPhwnAapS_2-dDh-tipK8A/badge)](https://hackmd.io/fPhwnAapS_2-dDh-tipK8A)
+
+
 ### Video Conference Information
 * [Zoom video conference link](https://harvard.zoom.us/j/91600794594?pwd=L09iTGtTRUN1RmpsVnNvU05LRnNwQT09)
 * Instant messaging: [Matrix](https://riot.im/app/#/room/#plasmapy:openastronomy.org) 
