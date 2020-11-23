@@ -2,7 +2,7 @@
 tags: diagnostics, langmuir, minutes
 ---
 
-# PlasmaPy Langmuir Meeting | Monday 202X November XX at 09:00 PT / 12:00 ET
+# PlasmaPy Langmuir Meeting | Monday 202X November XX at 11:00 PT / 14:00 ET
 
 ### Video Conference Information
 * Instant messaging: [Matrix](https://element.im/app/#/room/#plasmapy:openastronomy.org) and [Gitter](https://gitter.im/PlasmaPy/Lobby)
