@@ -3,3 +3,6 @@ community outreach, website management, YouTube storyboarding, educational plann
 etc.  Code specific topics are discussed in the public 
 [community meetings](https://www.plasmapy.org/meetings/weekly/) and 
 ["office" hours](https://www.plasmapy.org/meetings/office_hours/).
+
+If you have questions/comments about project managment issues, then please reachout to us on our 
+[chat](https://app.element.io/#/room/#plasmapy:openastronomy.org).
