@@ -33,7 +33,7 @@ tags: diagnostics, langmuir, minutes
 6. Pull requests in progress 
     1. [PR #889](https://github.com/PlasmaPy/PlasmaPy/pull/889): calculating floating potential
     2. [PR #897](https://github.com/PlasmaPy/PlasmaPy/pull/897): plasma potential via dI/dV
-    3. [PR #813](https://github.com/PlasmaPy/PlasmaPy/pull/813): Langmuit & Diagnostic Framework
+    3. [PR #813](https://github.com/PlasmaPy/PlasmaPy/pull/813): Langmuir & Diagnostic Framework
 
 ## Minutes
 
