@@ -1,1 +1,23 @@
+# IDE workspace settings
+.idea/
+.vscode/
+# -- emacs --
+*#
+*~
+*.#
+.#*
+# -- vim --
+*.swp
+VIRTUAL/
+
+# virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# file types
 *.pdf
+
+# Misc files/directories
+.DS_Store
