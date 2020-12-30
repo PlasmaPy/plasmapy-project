@@ -9,7 +9,7 @@ tags: APS, minutes
 ### Video Conference Information
 * [Zoom video conference link](https://harvard.zoom.us/j/91600794594?pwd=L09iTGtTRUN1RmpsVnNvU05LRnNwQT09)
 * Instant messaging: [Matrix](https://app.element.io/#/room/#plasmapy:openastronomy.org)
-* [1st post-meeting minutes can be found on GitHub](https://github.com/PlasmaPy/plasmapy-project/blob/master/APS/2020DPP_1st_mini-conf_post-metting.md)
+* [1st post-meeting minutes can be found on GitHub](https://github.com/PlasmaPy/plasmapy-project/blob/master/minutes/APS/2020DPP_1st_mini-conf_post-metting.md)
 
 ## Minutes
 
