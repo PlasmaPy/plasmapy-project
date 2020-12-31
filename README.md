@@ -6,7 +6,7 @@ to their respective repository.  Issues and discussions brought up in this repos
 should be on overarching topics related to the management and planning of the 
 PlasmaPy project (e.g. policies, project road mapping, workshop planning, etc.).
 
-### Communication
+## Communication
 
 If you have an idea to contribute to the PlasmaPy project (that is not better suited
 for one of our [related repositories](#related-repositories)), then there are several 
@@ -30,7 +30,7 @@ ways to communicate with the PlasmaPy team.
    intended more to track ideas, enhancements, tasks, or bugs associated with the
    project.
 
-### Related Repositories
+## Related Repositories
 
 Please visit one of PlasmaPy's other repositories.
 
