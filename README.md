@@ -53,18 +53,18 @@ Please visit one of PlasmaPy's other repositories.
 
 * **[`plamsapy`](https://github.com/PlasmaPy/plasmapy)**
 
-  Repository for development of the `plasmapy` package.
+  > Repository for development of the `plasmapy` package.
 
 * **[plasmapy.github.io](https://github.com/PlasmaPy/plasmapy.github.io)**
   
-  Repository for development of [www.plasmapy.org](https://www.plasmapy.org).
+  > Repository for development of [www.plasmapy.org](https://www.plasmapy.org).
 
 * **[PlasmaPy-PLEPs](https://github.com/PlasmaPy/PlasmaPy-PLEPs)**
   
-  Repository for PlasmaPy Enhancement Proposals (PLEPs).  PLEPs follow in the same
-  footsteps as Python's [PEPs](https://www.python.org/dev/peps/pep-0001/) and are 
-  official proposals that outline and inform the community about a new feature
-  for PlasmaPy.
+  > Repository for PlasmaPy Enhancement Proposals (PLEPs).  PLEPs follow in the same
+    footsteps as Python's [PEPs](https://www.python.org/dev/peps/pep-0001/) and are 
+    official proposals that outline and inform the community about a new feature
+    for PlasmaPy.
 
 * **[Plasma-Education](https://github.com/PlasmaPy/Plasma-Education)**
 
