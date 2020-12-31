@@ -9,7 +9,7 @@ PlasmaPy project (e.g. policies, project road mapping, workshop planning, etc.).
 ### Communication
 
 If you have an idea to contribute to the PlasmaPy project (that is not better suited
-for one of our [related repositories](#Related-Repositories)), then there are several 
+for one of our [related repositories](#related-repositories)), then there are several 
 ways to communicate with the PlasmaPy team.
 
 1. [The PlasmaPy chat room.](https://app.element.io/#/room/#plasmapy:openastronomy.org)
@@ -32,3 +32,8 @@ ways to communicate with the PlasmaPy team.
 
 ### Related Repositories
 
+Please visit one of PlasmaPy's other repositories.
+
+***[`plamsapy`](https://github.com/PlasmaPy/plasmapy-project/issues)***
+
+    Repository for development of the `plasmapy` package. 
