@@ -24,7 +24,7 @@ ways to communicate with the PlasmaPy team.
    page creates an open threaded post that allows for a back-and-forth conversation with
    the PlasmaPy team and community.
 
-1. Create of responds to an [issue](https://github.com/PlasmaPy/plasmapy-project/issues).
+1. Create or respond to an [issue](https://github.com/PlasmaPy/plasmapy-project/issues).
 
    Issues are more formal than a conversation opened in the discussion forum.  They are
    intended more to track ideas, enhancements, tasks, or bugs associated with the
