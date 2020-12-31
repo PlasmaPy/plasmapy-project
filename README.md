@@ -47,7 +47,7 @@ Please visit one of PlasmaPy's other repositories.
   > Repository for PlasmaPy Enhancement Proposals (PLEPs).  PLEPs follow in the same
     footsteps as Python's [PEPs](https://www.python.org/dev/peps/pep-0001/) and are 
     official proposals that outline and inform the community about a new feature
-    for PlasmaPy.
+    or policy for PlasmaPy.
 
 * **[Plasma-Education](https://github.com/PlasmaPy/Plasma-Education)**
 
