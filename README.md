@@ -1,3 +1,5 @@
+[plasmapy]: https://github.com/PlasmaPy/plasmapy
+
 # The PlasmaPy Project
 
 This repository is intended for project wide documents and discussions.
@@ -34,7 +36,7 @@ ways to communicate with the PlasmaPy team.
 
 Please visit one of PlasmaPy's other repositories.
 
-* **[`plamsapy`](https://github.com/PlasmaPy/plasmapy)**
+* **[`plamsapy`][plasmapy]**
 
   Repository for development of the `plasmapy` package.
 
