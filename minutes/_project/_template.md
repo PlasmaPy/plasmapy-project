@@ -2,7 +2,7 @@
 tags: project management, minutes
 ---
 
-# PlasmaPy "Project" Meeting | Tuesday 2021 January XX at 13:00 PT / 16:00 ET
+# PlasmaPy "Project" Meeting | Wednesday 2021 January XX at 12:00 PT / 13:00 ET
 
 ### Video Conference Information
 * Instant messaging: [Matrix](https://element.im/app/#/room/#plasmapy:openastronomy.org) and [Gitter](https://gitter.im/PlasmaPy/Lobby)
