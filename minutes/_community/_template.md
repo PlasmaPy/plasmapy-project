@@ -16,7 +16,7 @@ tags: community, minutes
 ## Agenda (please feel free to edit or add items)
 
 1. Introductions
-2. 10-15 minutes for [roadmap](https://hackmd.io/@plasmapy
+2. 10-15 minutes for [roadmap](https://hackmd.io/@plasmapy)
 3. solicit "Project Issues"
 4. ...
 5. ...
