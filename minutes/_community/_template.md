@@ -2,7 +2,7 @@
 tags: community, minutes
 ---
 
-# PlasmaPy Community Meeting | Tuesday 2021 March XX at 18:00 UT
+# PlasmaPy Community Meeting | Tuesday 2021 May XX at 18:00 UT
 
 ### Video Conference Information
 * [Jitsi video conference link](https://meet.jit.si/plasmapy) with [call-in information](https://meet.jit.si/static/dialInInfo.html?room=plasmapy) 
