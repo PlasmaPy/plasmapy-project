@@ -2,7 +2,7 @@
 tags: project management, minutes
 ---
 
-# PlasmaPy "Project" Meeting | Wednesday 2021 January XX at 12:00 PT / 13:00 ET
+# PlasmaPy "Project" Meeting | Wednesday 2021 May XX at 12:00 PT / 13:00 ET
 
 ### Video Conference Information
 * Instant messaging: [Matrix](https://element.im/app/#/room/#plasmapy:openastronomy.org) and [Gitter](https://gitter.im/PlasmaPy/Lobby)
@@ -15,7 +15,7 @@ tags: project management, minutes
 ## Agenda (please feel free to edit or add items)
 
 1. Introductions
-2. 10-15 minutes of roadmap
+2. 10-15 minutes of [roadmap](https://hackmd.io/@plasmapy)
 3. solicit "Project Issues"
 4. ...
 5. ...
@@ -25,7 +25,9 @@ tags: project management, minutes
     2. ...
 8. Pull requests in progress 
     1. ...
-    
+9. Pull requests **MERGED**
+    1. ...
+
 ## Attendees
 
 * ...
