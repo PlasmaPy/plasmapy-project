@@ -15,7 +15,7 @@ tags: project management, minutes
 ## Agenda (please feel free to edit or add items)
 
 1. Introductions
-2. 10-15 minutes of [roadmap](https://hackmd.io/@plasmapy)
+2. 10-15 minutes of [roadmap](https://hackmd.io/@plasmapy/ry0mmnj6v)
 3. solicit "Project Issues"
 4. ...
 5. ...
